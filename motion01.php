@@ -57,7 +57,7 @@
                 </div>
             </section>
 
-            <section class="hero is-fullheight bg5" id="pagamento">
+            <section class="hero is-fullheight bg5 wow animated fadeIn" id="pagamento">
                 <div class="hero-body">
                     <div class="container">
                         <h1 class="subtitle is-5 color3">Etapa 02/02</h1>
